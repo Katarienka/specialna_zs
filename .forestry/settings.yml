@@ -6,10 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: Post
+  label: Hello World
   create: documents
   match: "*.md"
   templates:
+  - post
   - post
 - type: directory
   path: data
