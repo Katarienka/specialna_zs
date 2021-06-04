@@ -7,9 +7,14 @@ theme = "github.com/themefisher/northendlab-hugo"
 title = "Specialna ZS"
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Kontakt"
+url = "www.specialnazs.sk"
 weight = 1
 [[menu.footer]]
+URL = "tools"
+name = "tools"
+weight = 2
+[[menu.main]]
 URL = "tools"
 name = "tools"
 weight = 2
@@ -17,10 +22,6 @@ weight = 2
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
