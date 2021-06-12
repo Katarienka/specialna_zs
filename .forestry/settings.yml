@@ -10,9 +10,9 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - galeria
   - author
   - tools
-  - galeria
   - post
   - post
 - type: directory
