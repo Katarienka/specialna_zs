@@ -3,7 +3,7 @@ foto = ["/images/ucebnica_6r.jpg", "/images/ucebnica_5r_0.jpg"]
 popis = "Matematika pre 6. ročník špeciálnych základných škôl"
 predmet = ""
 rocnik = ""
-title = "Ucebnice"
+title = "Ucebnice s fotkami"
 [menu.main]
 weight = 1
 
