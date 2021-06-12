@@ -11,9 +11,13 @@ tools:
       Ústrednou témou učebnice je výchova k úcte k tradíciám, poznaj príslovia a porekadlá
       predkov.
   - name: Matematika pre 5. ročník špeciálnych základných škôl
-    image: "/images/ucebnica_6r.jpg"
+    image: "/images/ucebnica_5r_0.jpg"
     link: ''
-    desc: ''
+    desc: Učebnica matematiky pre 5. ročník ŠZŠ je štvorfarebná, vo formáte A 4, v
+      pevnej väzbe. Má 112 strán, 90 strán aritmetiky a 22 strán geometrie.  Učebnica
+      obsahuje učivo učebných osnov pre 5. ročník ŠZŠ, pre žiakov s mentálnym postihnutím.
+      Ústrednou témou učebnice je rozvoj mentálnych a matematických schopností riešením
+      klasických aj matematických hádaniek a počítaním príkladov, či slovných úloh.
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
