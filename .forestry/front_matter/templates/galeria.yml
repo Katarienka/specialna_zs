@@ -1,6 +1,7 @@
 ---
 label: Galeria
 hide_body: false
+display_field: title
 fields:
 - name: foto
   type: image_gallery
@@ -39,3 +40,8 @@ fields:
     schema:
       format: markdown
   label: Popis
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
