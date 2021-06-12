@@ -5,55 +5,76 @@ tools:
   - name: Matematika pre 6. ročník špeciálnych základných škôl
     image: "/images/ucebnica_6r.jpg"
     link: ''
+    desc: Učebnica matematiky pre 6. ročník ŠZŠ je štvorfarebná, vo formáte A4, v
+      pevnej väzbe. Má 130 strán, 96 strán aritmetiky a 34 strán geometrie.  Učebnica
+      obsahuje učivo učebných osnov pre 6. ročník ŠZŠ, pre žiakov s mentálnym postihnutím.
+      Ústrednou témou učebnice je výchova k úcte k tradíciám, poznaj príslovia a porekadlá
+      predkov.
   - name: Matematika pre 5. ročník špeciálnych základných škôl
     image: "/images/ucebnica_6r.jpg"
     link: ''
+    desc: ''
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
+    desc: ''
   - name: Sublime Text
     image: "/images/tools/sublime.png"
     link: https://www.sublimetext.com/
+    desc: ''
   - name: Visual Studio Code
     image: "/images/tools/vs-code.png"
     link: https://code.visualstudio.com/
+    desc: ''
 - title: Design Tools
   tool:
   - name: Sketch
     image: "/images/tools/sketch.png"
     link: https://www.sketch.com/
+    desc: ''
   - name: Adobe Illustrator
     image: "/images/tools/illustrator.png"
     link: https://www.adobe.com/products/illustrator.html
+    desc: ''
   - name: Invision
     image: "/images/tools/invision.png"
     link: https://www.invisionapp.com/studio
+    desc: ''
   - name: Adobe XD
     image: "/images/tools/xd.png"
     link: https://www.adobe.com/products/xd.html
+    desc: ''
   - name: Figma
     image: "/images/tools/figma.png"
     link: https://www.figma.com/
+    desc: ''
 - title: Digital Marketing Tools
   tool:
   - name: Mailchimp
     image: "/images/tools/MailChimp.jpg"
     link: https://mailchimp.com/
+    desc: ''
   - name: Buffer
     image: "/images/tools/Buffer.jpg"
     link: https://buffer.com/
+    desc: ''
   - name: Bitly Link
     image: "/images/tools/Bitly.jpg"
     link: https://bitly.com/
+    desc: ''
   - name: Hotjar
     image: "/images/tools/Hotjar.jpg"
     link: https://www.hotjar.com/
+    desc: ''
   - name: Ahrefs
     image: "/images/tools/Ahrefs.jpg"
     link: https://ahrefs.com/
+    desc: ''
   - name: Google Trends
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
+    desc: ''
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
     link: https://analytics.google.com/analytics/web
+    desc: ''
