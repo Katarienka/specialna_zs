@@ -1,4 +1,41 @@
 ---
 label: Galeria
 hide_body: false
-fields: []
+fields:
+- name: foto
+  type: image_gallery
+  config: {}
+  label: Foto
+- name: predmet
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Predmet
+- name: rocnik
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Rocnik
+- name: popis
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Popis
