@@ -5,9 +5,9 @@ tools:
   - name: Matematika pre 6. ročník špeciálnych základných škôl
     image: "/images/ucebnica_6r.jpg"
     link: ''
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
+  - name: Matematika pre 5. ročník špeciálnych základných škôl
+    image: "/images/ucebnica_6r.jpg"
+    link: ''
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
