@@ -45,3 +45,5 @@ fields:
   config:
     required: false
   label: Title
+pages:
+- content/matematika-pre-6.rocnik-specialnych-zakladnych-skol.md
