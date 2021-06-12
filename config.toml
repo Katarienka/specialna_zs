@@ -35,7 +35,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "špeciálnaZS.sk <br> Portál pre učiteľov špeciálnych základných škôl a všetkých, ktorí žijú a pracujú so zdravotne znevýhodnenými deťmi"
+title = "Portál pre učiteľov špeciálnych základných škôl a všetkých, ktorí žijú a pracujú so zdravotne znevýhodnenými deťmi"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
