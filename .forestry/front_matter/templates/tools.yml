@@ -20,7 +20,7 @@ fields:
       name: image
       label: image
     - type: text
-      name: link
-      label: link
+      name: desc
+      label: Popis
 pages:
 - data/tools.yml
