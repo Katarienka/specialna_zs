@@ -3,10 +3,16 @@ label: Galeria
 hide_body: false
 display_field: title
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: foto
   type: image_gallery
   config: {}
   label: Foto
+  hidden: false
 - name: predmet
   type: select
   default: []
@@ -40,10 +46,5 @@ fields:
     schema:
       format: markdown
   label: Popis
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
 pages:
 - content/matematika-pre-6.rocnik-specialnych-zakladnych-skol.md
