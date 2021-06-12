@@ -15,7 +15,7 @@ name = "tools"
 weight = 2
 [[menu.main]]
 URL = ""
-name = "Ucebnice"
+name = "lamadama ding dong"
 weight = ""
 [[menu.main]]
 URL = "contact"
