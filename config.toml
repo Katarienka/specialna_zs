@@ -38,7 +38,7 @@ image = "images/banner/illustration.svg"
 title = "Portál pre učiteľov špeciálnych základných škôl a všetkých, ktorí žijú a pracujú so zdravotne znevýhodnenými deťmi"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
@@ -60,7 +60,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = ""
 [params.search]
 enable = true
