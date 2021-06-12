@@ -5,6 +5,7 @@ predmet = ""
 rocnik = ""
 title = "Ucebnice s fotkami"
 [menu.main]
+name = "Ucebnice"
 weight = 1
 
 +++
